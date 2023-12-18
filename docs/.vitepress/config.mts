@@ -21,6 +21,12 @@ export default defineConfig({
           { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'Learning Notes', link: '/learning-notes' }
         ]
+      },
+      {
+        text: 'Notes',
+        items: [
+          { text: 'Learning Notes', link: '/learning-notes' }
+        ]
       }
     ],
 
