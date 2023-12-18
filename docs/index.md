@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: alt
+      text: Learning Notes
+      link: /learning-notes
 
 features:
   - title: Feature A
